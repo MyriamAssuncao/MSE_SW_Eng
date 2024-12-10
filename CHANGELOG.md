@@ -1,5 +1,9 @@
 # CHANGELOG.md
 
+## v0.0.5
+Fixes:
+ - changed Docker version
+   
 ## v0.0.4
 Fixes:
  - fixed LED test
